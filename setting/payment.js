@@ -2,7 +2,7 @@ exports.payment = (prefix) => {
 return `╭──「 *PAYMENT / DONASI* 」
 │
 ├❏ Gopay : _Tuh Kak Scan Qrnya_
-├❏ Dana : _Tidak Tersedia_
+├❏ Dana : _081221837415_
 ├❏ Ovo : _Tidak Tersedia_
 │
 ╰──`
